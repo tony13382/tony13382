@@ -34,14 +34,14 @@
 
 ## Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/linkedinCircle.svg" />]("https://www.linkedin.com/in/liang-chin-lu")
+[<img align="left" alt="vibhorchaudhary | LinkedIn" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/linkedinCircle.svg" />](https://www.linkedin.com/in/liang-chin-lu)
 
-[<img align="left" alt="vibhorchaudhary | Facebook" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/facebookCircle.svg" />]("https://www.facebook.com/tony13382/")
+[<img align="left" alt="vibhorchaudhary | Facebook" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/facebookCircle.svg" />](https://www.facebook.com/tony13382/)
 
-[<img align="left" alt="vibhorchaudhary | Instagram" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/instagramCircle.svg" />]("https://www.instagram.com/liang_chin_ml/")
+[<img align="left" alt="vibhorchaudhary | Instagram" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/instagramCircle.svg" />](https://www.instagram.com/liang_chin_ml/)
 
-[<img align="left" alt="vibhorchaudhary | Mail" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/mailtoCircle.svg" />]("mailto://liangchinlu@gmail.com")
+[<img align="left" alt="vibhorchaudhary | Mail" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/mailtoCircle.svg" />](mailto://liangchinlu@gmail.com)
 
-[<img align="left" alt="vibhorchaudhary | Website" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/website.svg" />]("https://tony13382.github.io")
+[<img align="left" alt="vibhorchaudhary | Website" width="32px" src="https://tony13382.github.io/assets/imgs/mailIconPack/website.svg" />](https://tony13382.github.io)
 
 <br />
