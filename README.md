@@ -1,5 +1,6 @@
 # 一位多領域背景的 產品創造者
-多次參加全國性競賽經驗並曾參與新創團隊進行設計與開發
+現為 Solwen AI 的 AI／後端 工程師，曾加入 U-Star 計劃扶植的新創團隊並在其中擔任 CTO & 產品設計師。<br />
+**學歷：** 中原資管系、清大學科所
 
 ## My Skill
 **📊 數據分析｜資料庫操作、資料視覺化** <br />
@@ -15,20 +16,20 @@
   OBS 串連直撥設定與操作、Instagram 圖文製作 <br />
 
 ## Languages and Tools:
-<img align="left" alt="JavaScript" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/javascript.png" />
-<img align="left" alt="NodeJS" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/nodejs.png" />
-<img align="left" alt="JSP" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/apacheTomcat.png" />
 <img align="left" alt="Python" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/pyhon.png" />
-<img align="left" alt="Bootstrap5" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/bootstrapV5.png" />
-<img align="left" alt="Flutter" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/flutter.png" />
-<img align="left" alt="GAds" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/googleAds.png" />
-<img align="left" alt="GA" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/googleAnalytics.png" />
-<img align="left" alt="R" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/rStudio.png" />
 <img align="left" alt="MySQL" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/mysql.png" />
 <img align="left" alt="Firebase" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/firebase.png" />
 <img align="left" alt="Excel" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/excel.png" />
 <img align="left" alt="Looker Studio" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/data_studio.svg" />
 <img align="left" alt="Power BI" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/powerBi.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/javascript.png" />
+<img align="left" alt="NodeJS" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/nodejs.png" />
+<img align="left" alt="JSP" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/apacheTomcat.png" />
+<img align="left" alt="Bootstrap5" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/bootstrapV5.png" />
+<img align="left" alt="Flutter" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/flutter.png" />
+<img align="left" alt="GAds" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/googleAds.png" />
+<img align="left" alt="GA" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/googleAnalytics.png" />
+<img align="left" alt="R" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/rStudio.png" />
 <img align="left" alt="Figma" width="32px" src="https://tony13382.github.io/assets/imgs/appIcons/figma.png" />
 
 <br />
