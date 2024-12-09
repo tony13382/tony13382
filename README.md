@@ -16,119 +16,30 @@
   OBS 串連直撥設定與操作、Instagram 圖文製作 <br />
 
 ## Languages and Tools:
-<table border=0>
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
-    </td>
-    <td style="vertical-align: middle;">Python</td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
-    </td>
-    <td style="vertical-align: middle;">SQL 資料庫</td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase" />
-    </td>
-    <td style="vertical-align: middle;">Firebase</td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
-    </td>
-    <td style="vertical-align: middle;">Excel</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" />
-    </td>
-    <td style="vertical-align: middle;">Power BI</td>
-    </td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" />
-    </td>
-    <td style="vertical-align: middle;">JavaScript</td>
-    </td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" />
-    </td>
-    <td style="vertical-align: middle;">NodeJS</td>
-    </td>
-    <td style="vertical-align: middle;">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
-    </td>
-    <td style="vertical-align: middle;">JSP</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle;">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" />
-    </td>
-    <td style="vertical-align: middle;">Bootstrap5</td>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" />
-    </td>
-    <td style="vertical-align: middle;">Flutter</td>
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
-    </td>
-    <td style="vertical-align: middle;">Google Ads</td>
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics" />
-    </td>
-    <td style="vertical-align: middle;">GA</td>
-  </tr>
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=r" />
-    </td>
-    <td style="vertical-align: middle;">R</td>
-    </td>
-    <td style="vertical-align: middle;">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" />
-    </td>
-    <td style="vertical-align: middle;">Figma</td>
-    </td>
-    <td style="vertical-align: middle;"></td>
-    <td style="vertical-align: middle;"></td>
-    </td>
-    <td style="vertical-align: middle;"></td>
-    <td style="vertical-align: middle;"></td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,firebase,excel,looker,javascript,nodejs,java,bootstrap,flutter,googleanalytics,r,figma&perline=8&titles=true"/>
+
 
 
 <br />
 <br />
 
 ## Connect with me:
-<table>
-<tr>
-<td style="vertical-align: middle;">
+
 <a href="https://www.linkedin.com/in/liang-chin-lu">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-</a>
-</td>
-<td style="vertical-align: middle;">
+</a>&nbsp; 
 <a href="https://www.facebook.com/tony13382/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
-</a>
-</td>
-<td style="vertical-align: middle;">
+</a>&nbsp;
 <a href="https://www.instagram.com/liang_chin_ml/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
-</a>
-</td>
-<td style="vertical-align: middle;">
+</a>&nbsp;
 <a href="mailto://liangchinlu@gmail.com">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-</a>
-</td>
-<td style="vertical-align: middle;">
+</a>&nbsp;
 <a href="https://lianglu.uk">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" />
-</a>
-</td>
-</tr>
-</table>
+</a>&nbsp;
 
 
 
