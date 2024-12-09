@@ -2,43 +2,37 @@
 現為 Solwen AI 的 AI／後端 工程師，曾加入 U-Star 計劃扶植的新創團隊並在其中擔任 CTO & 產品設計師。<br />
 **學歷：** 中原資管系、清大學科所（專門研究大型語言模型整合與應用）
 
-## My Skill
-**📊 數據分析｜資料庫操作、資料視覺化** <br />
-  Looker Studio(Google Data Studio)、Power BI、Excel、R Studio (ggplot) <br />
-  
-**🖌️ 產品設計｜產品介面設計、用戶旅程分析與繪製** <br />
-  Figma <br />
-  
-**💻 全端開發｜網頁開發、APIs 製作、資料庫管理與設計** <br />
-  NodeJS、JSP、Python <br />
-  
-**👨‍👦‍👦 社群行銷｜社群媒體經營與分析、具實操社群媒體直播經驗** <br />
-  OBS 串連直撥設定與操作、Instagram 圖文製作 <br />
+## Skill, Languages and Tools:
+### 📊 數據分析｜資料庫操作、資料視覺化
+Dabase(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot), Google Analytics<br /><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,firebase,excel,looker,googleanalytics,r&perline=8&titles=true"/><br />
 
-## Languages and Tools:
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,firebase,excel,looker,javascript,nodejs,java,bootstrap,flutter,googleanalytics,r,figma&perline=8&titles=true"/>
+### 💻 全端開發｜網頁開發、APIs 製作、資料庫管理與設計
+BE: Javascript、NodeJS、Java(Tomcat)、fastapi、flask(Python)<br />
+FE: React、Bootstrap、flutter<br /><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,nodejs,java,fastapi,flask,react,bootstrap,flutter&perline=8&titles=true"/><br />
 
+### 🖌️ 產品設計｜產品介面設計、用戶旅程分析與繪製、電梯簡報設計
+Figma、Canva、Powerpoint<br /><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,powerpoint&perline=8&titles=true"/><br />
 
-
-<br />
-<br />
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/liang-chin-lu">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-</a>&nbsp; 
+<a  href="https://www.linkedin.com/in/liang-chin-lu">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" target="_blank"/>
+</a> &nbsp; 
 <a href="https://www.facebook.com/tony13382/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
-</a>&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" target="_blank"/>
+</a> &nbsp;
 <a href="https://www.instagram.com/liang_chin_ml/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
-</a>&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" target="_blank"/>
+</a> &nbsp;
 <a href="mailto://liangchinlu@gmail.com">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
-</a>&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" target="_blank"/>
+</a> &nbsp;
 <a href="https://lianglu.uk">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" target="_blank"/>
 </a>&nbsp;
 
 
