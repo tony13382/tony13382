@@ -9,7 +9,6 @@ Dabase(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=looker&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=r&titles=true"/> &nbsp; 
