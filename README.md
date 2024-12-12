@@ -5,16 +5,35 @@
 ## Skill, Languages and Tools:
 ### 📊 數據分析｜資料庫操作、資料視覺化
 Dabase(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot), Google Analytics<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql,firebase,excel,looker,googleanalytics,r&perline=8&titles=true"/><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=looker&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=r&titles=true"/> &nbsp; 
+<br />
 
 ### 💻 全端開發｜網頁開發、APIs 製作、資料庫管理與設計
 BE: Javascript、NodeJS、Java(Tomcat)、fastapi、flask(Python)<br />
 FE: React、Bootstrap、flutter<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,nodejs,java,fastapi,flask,react,bootstrap,flutter&perline=8&titles=true"/><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true"/> &nbsp; 
+<br />
 
 ### 🖌️ 產品設計｜產品介面設計、用戶旅程分析與繪製、電梯簡報設計
 Figma、Canva、Powerpoint<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva,powerpoint&perline=8&titles=true"/><br />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true"/> &nbsp; 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&titles=true"/> &nbsp; 
+<br />
 
 
 ## Connect with me:
