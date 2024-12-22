@@ -49,7 +49,7 @@ Figma、Canva、Powerpoint<br /><br />
 <a href="mailto://liangchinlu@gmail.com">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" target="_blank"/>
 </a> &nbsp;
-<a href="https://tony13382.github.io/">
+<a href="https://lianglu.uk/">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" target="_blank"/>
 </a>&nbsp;
 
