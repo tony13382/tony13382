@@ -4,7 +4,7 @@
 
 ## Skill, Languages and Tools:
 ### 📊 數據分析｜資料庫操作、資料視覺化
-Dabase(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot), Google Analytics<br /><br />
+Database(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot), Google Analytics<br /><br />
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"/> &nbsp; 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true"/> &nbsp; 
