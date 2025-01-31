@@ -1,5 +1,5 @@
 # 一位多領域背景的 產品創造者
-現為 Solwen AI 的 AI／後端 工程師，曾加入 U-Star 計劃扶植的新創團隊並在其中擔任 CTO & 產品設計師。<br />
+現為 Solwen AI 的 AI／後端 工程師，曾加入 U-Start 計劃扶植的新創團隊並在其中擔任 CTO & 產品設計師。<br />
 **學歷：** 中原資管系、清大學科所（專門研究大型語言模型整合與應用）
 
 ## Skill, Languages and Tools:
