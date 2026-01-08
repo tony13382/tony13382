@@ -5,52 +5,55 @@
 ## Skill, Languages and Tools:
 ### 📊 數據分析｜資料庫操作、資料視覺化
 Database(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggplot), Google Analytics<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=looker&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=r&titles=true"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Python.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/MySQL.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Firebase.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Excel.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/GoogleLookerStudio.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/GoogleAnalytics.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/R.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Ggplot2.png" width="48"/> &nbsp; 
 <br />
 
 ### 💻 全端開發｜網頁開發、APIs 製作、資料庫管理與設計
-BE: Javascript、NodeJS、Java(Tomcat)、fastapi、flask(Python)<br />
-FE: React、Bootstrap、flutter<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter&titles=true"/> &nbsp; 
+BE: 有豐富的 API 開發經驗，熟悉各類資料庫<br />
+FE: 有大量靜態與 React SPA 的開發經驗<br /><br />
+<img src="https://lianglu.uk/assets/imgs/appIcons/React.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/ReactRouter.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/R.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/FastAPI.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Flask.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/NodeJs.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Java.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Tailwind.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Bootstrap.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Flutter.png" width="48"/> &nbsp; 
 <br />
 
 ### 🖌️ 產品設計｜產品介面設計、用戶旅程分析與繪製、電梯簡報設計
 Figma、Canva、Powerpoint<br /><br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true"/> &nbsp; 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint&titles=true"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Figma.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Canva.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Powerpoint.png" width="48"/> &nbsp; 
 <br />
 
 
 ## Connect with me:
 
-<a  href="https://www.linkedin.com/in/liang-chin-lu">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" target="_blank"/>
+<a  href="https://www.linkedin.com/in/liang-chin-lu" target="_blank">
+  <img src="https://lianglu.uk/assets/imgs/appIcons/LinkedIn.png" width="48"/>
 </a> &nbsp; 
-<a href="https://www.facebook.com/tony13382/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" target="_blank"/>
+<a href="https://www.facebook.com/tony13382/" target="_blank">
+  <img src="https://lianglu.uk/assets/imgs/appIcons/Facebook.png" width="48"/>
 </a> &nbsp;
-<a href="https://www.instagram.com/liang_chin_ml/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" target="_blank"/>
+<a href="https://www.instagram.com/liang_chin_ml/" target="_blank">
+  <img src="https://lianglu.uk/assets/imgs/appIcons/Instagram.png" width="48"/>
 </a> &nbsp;
-<a href="mailto://liangchinlu@gmail.com">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" target="_blank"/>
+<a href="mailto://liangchinlu@gmail.com" target="_blank">
+  <img src="https://lianglu.uk/assets/imgs/appIcons/Gmail.png" width="48"/>
 </a> &nbsp;
-<a href="https://lianglu.uk/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" target="_blank"/>
+<a href="https://lianglu.uk/" target="_blank">
+  <img src="https://lianglu.uk/assets/imgs/appIcons/Website.png" width="48"/>
 </a>&nbsp;
 
 
