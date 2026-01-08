@@ -18,15 +18,16 @@ Database(SQL, NoSQL, Vector)、Excel、Looker Studio、Power BI、R Studio (ggpl
 ### 💻 全端開發｜網頁開發、APIs 製作、資料庫管理與設計
 BE: 有豐富的 API 開發經驗，熟悉各類資料庫<br />
 FE: 有大量靜態與 React SPA 的開發經驗<br /><br />
-<img src="https://lianglu.uk/assets/imgs/appIcons/React.png" width="48"/> &nbsp; 
-<img src="https://lianglu.uk/assets/imgs/appIcons/ReactRouter.png" width="48"/> &nbsp; 
-<img src="https://lianglu.uk/assets/imgs/appIcons/R.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/FastAPI.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/Flask.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/NodeJs.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/JavaServerPage.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/Java.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/React.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/ReactRouter.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/Tailwind.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/Bootstrap.png" width="48"/> &nbsp; 
+<img src="https://lianglu.uk/assets/imgs/appIcons/Golang.png" width="48"/> &nbsp; 
 <img src="https://lianglu.uk/assets/imgs/appIcons/Flutter.png" width="48"/> &nbsp; 
 <br />
 
@@ -41,7 +42,7 @@ Figma、Canva、Powerpoint<br /><br />
 ## Connect with me:
 
 <a  href="https://www.linkedin.com/in/liang-chin-lu" target="_blank">
-  <img src="https://lianglu.uk/assets/imgs/appIcons/LinkedIn.png" width="48"/>
+  <img src="https://lianglu.uk/assets/imgs/appIcons/LinkedIn.png" width="48" />
 </a> &nbsp; 
 <a href="https://www.facebook.com/tony13382/" target="_blank">
   <img src="https://lianglu.uk/assets/imgs/appIcons/Facebook.png" width="48"/>
